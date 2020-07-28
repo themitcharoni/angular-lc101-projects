@@ -6,10 +6,10 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./fav-photos.component.css']
 })
 export class FavPhotosComponent implements OnInit {
-  photosTitle = 'Photo/Image Section Title Here';
-  image1 = 'https://www.launchcode.org/assets/icons/trophy-95e8cbe9bfda44123422302951deb1c92a237d39052669b8fbfafec00cb4f608.png';
-  image2 = '';
-  image3 = '';
+  photosTitle = 'Some Dope Pics';
+  image1 = 'https://vignette.wikia.nocookie.net/dubbing9585/images/e/ec/Gundam_Wing_Poster.jpg/revision/latest/top-crop/width/360/height/450?cb=20190420061155';
+  image2 = 'https://static0.srcdn.com/wordpress/wp-content/uploads/2017/01/Gundam-Wing-Deathscythe.jpg';
+  image3 = 'https://pm1.narvii.com/5772/8c7aeb7be1556d0c23c00525c3c123815cb4b50a_hq.jpg';
 
   constructor() { }
 
